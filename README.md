@@ -2,7 +2,7 @@
 <img width="350px"  src="https://c.tenor.com/jVTOMVDbw0sAAAAC/cirno-fumo.gif"/>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Yazid</h1>
+<h1 align="center">Hi <img src="https://tenor.com/view/rei-ayanami-evangelion-smile-death-gif-10629993" height="30px">, I'm Yazid</h1>
 <h3 align="center">I'm a Fullstack developer</h3>
 
 
@@ -23,6 +23,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/php.svg"/> </a>
+    <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"> <img src="https://github.com/twbs/icons"/> </a>
+    <a href="https://mdbootstrap.com/" target="_blank"> <img src="https://github.com/mdbootstrap"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> </a>
 </p>
 
@@ -56,7 +58,7 @@
 
 <a href = "https://www.linkedin.com/in/muhammad-yazid-akbar-0b6aaa21b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/yazz_803/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://www.facebook.com/Lolsecz501"><img src="https://id.m.wikipedia.org/wiki/Berkas:Facebook_f_logo_%282019%29.svg"/></a>
 </p>
 
 
