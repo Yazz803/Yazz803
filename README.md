@@ -8,14 +8,7 @@
 
 ## About Me
 
-
-- 🌱 I’m currently learning **Laravel**
-
-- 🌐 Visit my website **http://personal-website-yazid.netlify.app/**
-
-- 📫 How to reach me **yazidakbar08@gmail.com**
-
-- ⚡ Fun fact **I play games and code every day.**
+I'm 17 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently learning JavaScript programming language, so i'm gonna make a website that combine 2 framework, laravel for backend and react JS for the front-end. Yeah, my goal is to become a fullstack developer.
 
 ## Languages and Tools
 
