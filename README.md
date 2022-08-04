@@ -51,7 +51,6 @@ I'm 17 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently
 
 <a href = "https://www.linkedin.com/in/muhammad-yazid-akbar-0b6aaa21b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/yazz_803/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/Lolsecz501"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="40" height="40"/></a>
 </p>
 
 
