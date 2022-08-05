@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Yazid</h1>
-<h3 align="center">I'm a Fullstack developer</h3>
+<h3 align="center">I'm Sundanese People</h3>
 
 
 ## About Me
