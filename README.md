@@ -25,15 +25,15 @@ I'm 17 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently
 
 <p align="left">
     <a>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yazid's streak" src="https://github-readme-streak-stats.herokuapp.com?user=yazz803&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j&stroke=8fce00&fire=8fce00&currStreakNum=8fce00&sideNums=8fce00&sideLabels=8fce00&currStreakLabel=8fce00&ring=8fce00&background=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yazid's streak" src="https://github-readme-streak-stats.herokuapp.com?user=yazz803&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j&stroke=9fc5e8&fire=9fc5e8&currStreakNum=9fc5e8&sideNums=9fc5e8&sideLabels=9fc5e8&currStreakLabel=9fc5e8&ring=9fc5e8&background=0D1117"/>
     </a>
 </p>
 
 ## My Github Stats
 
   <br/>
-    <a><img alt="Yazid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yazz803&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8fce00&icon_color=6aa84f" /></a>
-  <a><img alt="Yazid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazz803&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8fce00" /></a>
+    <a><img alt="Yazid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yazz803&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=9fc5e8&icon_color=6fa8dc" /></a>
+  <a><img alt="Yazid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazz803&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=9fc5e8" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -41,7 +41,7 @@ I'm 17 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently
 <br/>
 <br/>
 
-<a><img alt="Yazid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yazz803&bg_color=0D1117&color=8fce00&line=8fce00&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Yazid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yazz803&bg_color=0D1117&color=9fc5e8&line=9fc5e8&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
