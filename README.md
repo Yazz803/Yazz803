@@ -41,7 +41,7 @@ I'm 17 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently
 <br/>
 <br/>
 
-<a><img alt="Yazid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yazz803&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Yazid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yazz803&bg_color=0D1117&color=8fce00&line=8fce00&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
