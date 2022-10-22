@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm 17 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently learning JavaScript programming language, so i'm gonna make a website that combine 2 framework, laravel for backend and react JS for the front-end. Yeah, my goal is to become a fullstack developer.
+I'm 17 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently learning JavaScript programming language, so i'm gonna make a website that combine 2 framework, laravel for backend and react JS for the front-end. My goal is to become a fullstack developer.
 
 ## Languages and Tools
 
@@ -20,6 +20,8 @@ I'm 17 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently
     <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-social-logo.png" width="40" height="40"/> </a>
     <a href="https://mdbootstrap.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/794174817666744320/vIvy98Qx_400x400.jpg" width="40" height="40"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> </a>
+    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="40"/>
+    <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" width="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="40"/>
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40"/>
