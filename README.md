@@ -5,6 +5,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Yazid</h1>
 <h3 align="center">I'm Sundanese People</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yazz803&label=Profile%20views&color=0e75b6&style=flat" alt="yazz803" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yazz803&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="yazz803" /></a> </p>
+
+- 🌱 I’m currently learning **React JS, Tailwind CSS**
+
+- 👨‍💻 All of my projects are available at [https://yazzn.showwcase.com/](https://yazzn.showwcase.com/)
+
+- 📫 How to reach me **yazidakbar08@gmail.com**
+
+- 📄 Know about my experiences [https://resume.showwcase.com/yazzn.pdf](https://resume.showwcase.com/yazzn.pdf)
+
+- ⚡ Fun fact **Don't care with other girl except my crush**
+
 
 ## About Me
 
