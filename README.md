@@ -1,9 +1,11 @@
-<p align="center">
-<img width="350px"  src="https://c.tenor.com/AU6BSoegpyAAAAAC/rei-ayanami.gif"/>
-</p>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Yazz803&theme=summer&pixelate_avatar=false">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Yazz803&theme=summer&pixelate_avatar=false">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Yazz803&theme=summer&pixelate_avatar=false">
+</picture>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Yazid</h1>
-<h3 align="center">I'm Sundanese People</h3>
+<h3 align="center">I'm Cogito Ergo Sum</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yazz803&label=Profile%20views&color=0e75b6&style=flat" alt="yazz803" /> </p>
 
