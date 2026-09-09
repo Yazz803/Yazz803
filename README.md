@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode_2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode_2.svg" />
   <img alt="yazz803's GitHub profile" src="dark_mode.svg" />
 </picture>
 
