@@ -1,8 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode_2.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode_2.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode_3.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode_3.svg" />
   <img alt="yazz803's GitHub profile" src="dark_mode.svg" />
 </picture>
+
+<!-- https://gh.crafter.run/?u=yazz803 -->
 
 <!-- <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Yazz803&theme=summer&pixelate_avatar=false">
